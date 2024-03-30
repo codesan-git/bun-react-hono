@@ -12,6 +12,8 @@ To run frontend:
 bun run dev:frontend
 ```
 
+To run backend:
+
 ```bash
 bun run dev:backend
 ```
